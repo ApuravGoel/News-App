@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kyle Rittenhouse lawsuit brought by father of man killed can proceed",
+    "description": "It was filed by the father of Anthony Huber who was shot and killed by Rittenhouse in Kenosha, Wisconsin in 2020.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64500565",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EAC4/production/_128500106_gettyimages-1236277293.jpg",
+    "publishedAt": "2023-02-02T15:07:19.4207473Z",
+    "content": "A federal judge says a wrongful death lawsuit from the father of a man who was shot and killed by Kyle Rittenhouse can move forward.\r\nAnthony Huber was killed in Kenosha, Wisconsin, during unrest spa… [+1980 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US metro worker dies as gunman fires at commuters",
+    "description": "The attack started on a city bus and ended on the platform of a Metro station in Washington DC.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64499784",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A21B/production/_128499414_gettyimages-1246733929.jpg",
+    "publishedAt": "2023-02-02T13:37:14.7165318Z",
+    "content": "A transport worker was killed after trying to stop a gunman from shooting commuters in Washington DC on Wednesday morning, authorities said.\r\nTwo other people were wounded in the shooting and were tr… [+1937 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Philadelphia Eagles player charged with rape before Super Bowl",
+    "description": "Days before the NFL final, Philadelphia Eagles guard Joshua Sills is also accused of kidnapping.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64492886",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C97/production/_128493298_gettyimages-1242522298.jpg",
+    "publishedAt": "2023-02-02T07:52:29.6389835Z",
+    "content": "A player for the NFL's Philadelphia Eagles has been charged with kidnapping and rape less than two weeks before the team is due to play in the Super Bowl. \r\nJoshua Sills, 25, an offensive guard for t… [+1297 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Shell reports highest profits in 115 years",
+    "description": "The surge in energy prices last year helps the firm to announce record profits of $39.9bn.",
+    "url": "http://www.bbc.co.uk/news/uk-64489147",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1440F/production/_128495928_shelltanker_getty.jpg",
+    "publishedAt": "2023-02-02T07:52:24.7010974Z",
+    "content": "Oil and gas giant Shell has reported record annual profits after energy prices surged last year following Russia's invasion of Ukraine.\r\nThe company reported adjusted earnings of $39.9bn (£32.2bn) fo… [+1619 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "King Charles will not appear on new Australia $5 note",
+    "description": "The new note will feature a \"design that honours the culture and history of the First Australians.\"",
+    "url": "http://www.bbc.co.uk/news/business-64493849",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E451/production/_128494485_capture.jpg",
+    "publishedAt": "2023-02-02T07:52:21.2319678Z",
+    "content": "King Charles III will not feature on Australia's new five dollar note, the country's central bank has announced.\r\nThe new design will pay tribute to \"the culture and history of the First Australians\"… [+2657 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russian army officer admits: 'Our troops tortured Ukrainians'",
+    "description": "The senior lieutenant, who has now been sacked, tells the BBC he witnessed the mistreatment of prisoners.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64470092",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12419/production/_128477747_1200-super-img_1406.jpg",
+    "publishedAt": "2023-02-02T06:07:22.5605923Z",
+    "content": "Allegations of brutal interrogations, where Ukrainian men were shot and threatened with rape, have been made by a former Russian military officer. \r\nKonstantin Yefremov, the most senior officer to sp… [+12275 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Anger and hope for change at Tyre Nichols funeral",
+    "description": "People in Memphis said they did not need to watch the bodycam to know how police behave in their city.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64494062",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15DCD/production/_128494598_gettyimages-1246727760.jpg",
+    "publishedAt": "2023-02-02T04:07:20.2943378Z",
+    "content": "Amidst the grief and sadness at Tyre Nichols' funeral there was also palpable anger over the savage way in which he was beaten by officers, along with passionate appeals for police reform and legisla… [+3170 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why ballroom dancing thrives in Asian communities",
+    "description": "After a shooting at a dance studio in California, we visited a ballroom to meet the people still dancing.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64377362",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1138B/production/_128493507_p0f0f7k4.jpg",
+    "publishedAt": "2023-02-02T03:22:18.5461231Z",
+    "content": "A week after the shooting at a dance studio in Monterey Park near Los Angeles, which left 11 people dead, the BBC visited a studio in the San Francisco Bay Area to learn about the popularity and resi… [+77 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US black history syllabus changed after Florida 'woke' claims",
+    "description": "Topics including Black Lives Matter and reparations for slavery are now listed as optional.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64493289",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/25B1/production/_128494690_gettyimages-1138228594.jpg",
+    "publishedAt": "2023-02-02T03:22:16.1541198Z",
+    "content": "A US high school curriculum on African-American history has been revised after conservative critics complained it amounted to \"woke indoctrination\".\r\nFlorida Republicans argued that a draft version o… [+2696 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US seeks deal on Philippines bases to complete arc around China",
+    "description": "The US wants to expand access to military bases in the Philippines facing the South China Sea and Taiwan.",
+    "url": "http://www.bbc.co.uk/news/world-asia-64479712",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1078C/production/_128486476_gettyimages-1243689405.jpg",
+    "publishedAt": "2023-02-01T23:52:20.9051776Z",
+    "content": "If you look at a map of East Asia, you can see an arc of US alliances stretching from South Korea and Japan in the north to Australia in the south.\r\nBut smack in the middle of that is a missing link … [+6508 chars]"
+    }
+    ]
+    }
